@@ -25,6 +25,10 @@ html {
   font-family: 'Seaweed Script',serif;
 }
 
+.content {
+  text-align: center;
+}
+
 .sin:hover {
   color: #edef97;
   font-family: 'Berkshire Swash',fantasy;
@@ -38,4 +42,8 @@ html {
 .saint:hover {
   color: red;
   font-family: 'Seaweed Script',serif;
+}
+
+.proud:hover {
+  font-style: normal;
 }
