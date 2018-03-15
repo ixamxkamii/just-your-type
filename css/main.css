@@ -1,11 +1,7 @@
 html {
   background-color: black;
   color: white;
-  font-family: 'IBM Plex Serif', serif;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
+  font-family: "IBM Plex Serif", serif;
 }
 
 .down {
