@@ -20,13 +20,17 @@ html {
   box-sizing: inherit;
 }
 
+.down {
+  margin-left: 12em;
+}
+
+.down-black {
+  color: black;
+}
+
 .sin {
   color: red;
   font-family: 'Seaweed Script',serif;
-}
-
-.content {
-  text-align: center;
 }
 
 .sin:hover {
