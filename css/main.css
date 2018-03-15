@@ -1,19 +1,7 @@
-@-moz-viewport { width: device-width; scale: 1; }
-@-ms-viewport { width: device-width; scale: 1; }
-@-o-viewport { width: device-width; scale: 1; }
-@-webkit-viewport { width: device-width; scale: 1; }
-@viewport { width: device-width; scale: 1; }
-
 html {
-  box-sizing: border-box;
   background-color: black;
   color: white;
   font-family: 'IBM Plex Serif', serif;
-
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
 }
 
 *, *::before, *::after {
