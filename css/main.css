@@ -12,6 +12,18 @@ html {
   color: black;
 }
 
+.play {
+  color: #cccccc;
+}
+
+.g{
+  color: #999999;
+}
+
+.round {
+  color: #666666;
+}
+
 .sin {
   color: red;
   font-family: "Seaweed Script", serif;
