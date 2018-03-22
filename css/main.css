@@ -38,6 +38,14 @@ a {
   width: 32px;
 }
 
+.i-sinner {
+  background-image: url("../images/i-sinner.svg");
+}
+
+.i-saint {
+  background-image: url("../images/i-saint.svg");
+}
+
 .sin {
   color: red;
   font-family: "Seaweed Script", serif;
