@@ -3,26 +3,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 288 288" style="enable-background:new 0 0 288 288;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{font-family:'ProximaNova-Regular';}
-	.st2{font-size:51.3221px;}
-	.st3{letter-spacing:-2;}
-	.st4{font-family:'ProximaNova-Semibold';}
-	.st5{font-size:9.3626px;}
-	.st6{fill:none;}
-	.st7{font-size:10px;}
-	.st8{font-size:12px;}
-	.st9{fill:#ED2024;}
+	.st0{fill:#ED2024;}
 </style>
 <g>
-	<text transform="matrix(1 0 0 1 54.1582 106.4395)"><tspan x="0" y="0" class="st0 st1 st2 st3">1</tspan><tspan x="15.4" y="0" class="st0 st1 st2">2</tspan></text>
-	<text transform="matrix(1 0 0 1 55.8394 114.9377)" class="st0 st4 st5">questions</text>
-	<rect x="103.8" y="72.2" class="st6" width="95" height="45.3"/>
-	<text transform="matrix(1 0 0 1 103.75 78.8366)"><tspan x="0" y="0" class="st0 st1 st7">to take in </tspan><tspan x="0" y="12" class="st0 st1 st7">consideration and </tspan><tspan x="0" y="24" class="st0 st1 st7">determine if you are </tspan><tspan x="0" y="36" class="st0 st1 st7">ready to adopt a pet.</tspan></text>
-	<text transform="matrix(0 -1 1 0 48.35 116.147)" class="st0 st1 st8">Here are</text>
-</g>
-<g>
-	<path class="st9" d="M82.1,258.3c-6.7,2.2-13,4.7-19.5,6.4c-19.9,5-36.7-1.8-45.3-18.4c-2.7-5.3-4.7-11.2-5.8-17.1
+	<path class="st0" d="M82.1,258.3c-6.7,2.2-13,4.7-19.5,6.4c-19.9,5-36.7-1.8-45.3-18.4c-2.7-5.3-4.7-11.2-5.8-17.1
 		c-2.8-15.5-1.2-30.6,6.5-44.5c2.1-3.7,5-7,7.8-10.8c-1.7-1.5-3.7-3.2-6.2-5.4c8.7-2.4,17-4.7,25.7-7.1c-1.5,8.3-3,16.2-4.6,24.7
 		c-2.8-2.3-5.2-4.3-8.4-6.8c-2.3,2.8-5.2,5.3-6.8,8.4c-9.5,18.1-10.2,36.6-1.2,55c6.3,12.9,19,18.1,34.4,14.7
 		c6.5-1.4,12.7-4.2,19-6.6c0.8-0.3,1.7-1.7,1.7-2.7c0.2-10.2,0.2-20.3,0.5-30.5c0.2-8.1,0.5-16.3,1.2-24.3
