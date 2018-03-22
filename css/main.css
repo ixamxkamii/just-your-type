@@ -14,22 +14,22 @@ html {
 
 .sin {
   color: red;
-  font-family: 'Seaweed Script',serif;
+  font-family: "Seaweed Script", serif;
 }
 
 .sin:hover {
   color: #edef97;
-  font-family: 'Berkshire Swash',fantasy;
+  font-family: "Berkshire Swash", fantasy;
 }
 
 .saint {
   color: #edef97;
-  font-family: 'Berkshire Swash',fantasy;
+  font-family: "Berkshire Swash", fantasy;
 }
 
 .saint:hover {
   color: red;
-  font-family: 'Seaweed Script',serif;
+  font-family: "Seaweed Script", serif;
 }
 
 .proud:hover {
